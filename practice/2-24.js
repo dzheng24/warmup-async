@@ -1,3 +1,5 @@
+// practice on 2/24/20
+
 const superagent = require('superagent');
 
 function fetchPeopleWithPromises() {
